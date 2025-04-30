@@ -222,6 +222,3 @@ bilstm:
 This project is part of a doctoral research effort on predictive maintenance in trains. Contributions or suggestions are welcome via GitHub issues: [Issues](https://github.com/YahiaouiLydia/Efficient-and-Reliable-Predictive-Maintenance-in-Trains-based-on-BiLSTM-Model/issues).
 
 
-## License
-
-This project is for academic purposes and not distributed under a specific license.
