@@ -221,19 +221,7 @@ bilstm:
 
 This project is part of a doctoral research effort on predictive maintenance in trains. Contributions or suggestions are welcome via GitHub issues: [Issues](https://github.com/YahiaouiLydia/Efficient-and-Reliable-Predictive-Maintenance-in-Trains-based-on-BiLSTM-Model/issues).
 
-For more details, refer to our upcoming publication:
-> Lydia Yahiaoui et al., "Efficient Predictive Maintenance Using BiLSTM and SHAP," in preparation, 2025.
 
 ## License
 
 This project is for academic purposes and not distributed under a specific license.
-
-## Citations
-
-If you use this project or its components, please cite:
-> Lydia Yahiaoui et al., "Efficient Predictive Maintenance Using BiLSTM and SHAP," in preparation, 2025.
-> 
-## Contact
-
-For questions or suggestions, please open an issue on this repository: [Issues](https://github.com/YahiaouiLydia/Efficient-and-Reliable-Predictive-Maintenance-in-Trains-based-on-BiLSTM-Model/issues).
-Alternatively, contact the project maintainer via [ResearchGate](https://www.researchgate.net/profile/TonProfil).
